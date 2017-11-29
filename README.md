@@ -5,6 +5,13 @@ electron-react-webpack-sqlite3-boilerplate
 
 Electron boilerplate for React/Webpack/SQLite3/ES6
 
+Supports :
+
+* ES6
+* Webpack
+* React
+* SQLite3
+
 ## Usage
 
 ```
@@ -13,7 +20,7 @@ $ npm install
 $ npm start
 ```
 
-`Yarn` :
+For Yarn users :
 
 ```
 $ yarn install
